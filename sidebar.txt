@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[crm:home|Door43 (crm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-crm|d43-crm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-crm/archive/master.zip|d43-crm.zip]]
+
+**Recent Changes**
+{{changes>ns = crm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/crm|Ethnologue data]]
+
